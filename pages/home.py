@@ -28,10 +28,10 @@ st.markdown("""
 <h3 style='font-family:Arial; color:#333;'>Fitur Utama</h3>
 
 <p><strong style='font-size:16px;'>1. Analisis Sentimen Teks</strong><br>
-<span style='font-size:14px;'>Lakukan analisis terhadap ulasan secara manual (input teks) atau masif (upload file CSV).</span></p>
+<span style='font-size:14px;'>Lakukan analisis terhadap ulasan secara manual (input teks) atau masif (upload file CSV). Untuk analisis secara manual (input teks), sistem hanya menampilkan hasil analisis saja.</span></p>
 
 <p><strong style='font-size:16px;'>2. Visualisasi Hasil Analisis</strong><br>
-<span style='font-size:14px;'>Tampilkan hasil analisis dalam bentuk grafik distribusi sentimen dan word cloud untuk masing-masing sentimen.</span></p>
+<span style='font-size:14px;'>Tampilkan hasil analisis dalam bentuk grafik distribusi sentimen dan word cloud untuk masing-masing sentimen. Data yang divisualisasikan adalah data hasil ulasan dari dokumen CSV yang diunggah sebelumnya.</span></p>
 
 <p><strong style='font-size:16px;'>3. Rekapitulasi Data Ulasan</strong><br>
 <span style='font-size:14px;'>Menyajikan jumlah ulasan, persentase masing-masing sentimen, serta ringkasan insight secara dinamis.</span></p>
