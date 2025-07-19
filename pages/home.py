@@ -34,5 +34,5 @@ st.markdown("""
 <span style='font-size:14px;'>Menampilkan hasil analisis dalam bentuk grafik distribusi sentimen dan word cloud untuk masing-masing sentimen. Data yang divisualisasikan adalah data hasil ulasan dari dokumen CSV yang diunggah sebelumnya.</span></p>
 
 <p><strong style='font-size:16px;'>3. Rekapitulasi Data Ulasan</strong><br>
-<span style='font-size:14px;'>Menyajikan data hasil ulasan dengan label sentimen yang dapat diunduh dalam bentuk dokumen CSV.</span></p>
+<span style='font-size:14px;'>Menyajikan data hasil ulasan dengan label sentimen.</span></p>
 """, unsafe_allow_html=True)
