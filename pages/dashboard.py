@@ -146,7 +146,7 @@ try:
 
     st.markdown(f"""
             <div class='card judul'>
-                <div>Data Hasil Sentimen</div>
+                <div>Data Hasil Analisis Sentimen</div>
             </div>
         """, unsafe_allow_html=True)
     st.dataframe(df)
